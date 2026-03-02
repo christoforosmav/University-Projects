@@ -40,3 +40,22 @@ Non-Parametric Density Estimation:
 2. $k$-Nearest Neighbors ($k-NN$): Implementing the $k-NN$ density estimation and classification rule, where the volume of the region is adjusted based on the distance to the $k^{th}$ nearest neighbor.
 
 Decision Boundary Visualization: Comparative analysis of how different algorithms (Parametric vs. Non-Parametric) partition the feature space.
+
+<table style="width: 100%; border-collapse: separate; border-spacing: 15px; border: none;">
+<tr>
+<th align="center" style="width: 33%; vertical-align: bottom; border: none;">1. Optimal width through Hypercube/Gaussian Kenrels</th>
+<th align="center" style="width: 33%; vertical-align: bottom; border: none;">2. $k$-Nearest Neighbors performance for different $k$</th>
+<th align="center" style="width: 33%; vertical-align: bottom; border: none;">3. Boundary Visualization</th>
+</tr>
+<tr>
+<td align="center" style="vertical-align: top; border: none;">
+<img src="Plots (Pattern Recognition)/PatternRecognition_Project2.1.png" width="100%" style="border-radius: 4px; box-shadow: 0 2px 5px rgba(0,0,0,0.15);">
+</td>
+<td align="center" style="vertical-align: top; border: none;">
+<img src="Plots (Pattern Recognition)/PatternRecognition_Project2.2.png" width="100%" style="border-radius: 4px; box-shadow: 0 2px 5px rgba(0,0,0,0.15);">
+</td>
+<td align="center" style="vertical-align: top; border: none;">
+<img src="Plots (Pattern Recognition)/PatternRecognition_Project2.3.png" width="100%" style="border-radius: 4px; box-shadow: 0 2px 5px rgba(0,0,0,0.15);">
+</td>
+</tr>
+</table>
