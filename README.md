@@ -8,7 +8,9 @@ These projects explores the physics of wave propagation in elastic media through
 Wave Dynamics: Solving non-homogeneous wave equations in infinite and semi-infinite media using point sources and the Odd Extension method.
 
 Elastic Wave Propagation: Calculating displacement fields in homogeneous media based on specific density ($\rho=2.2\text{ g/cm}^3$) and P/S wave velocities ($\alpha=6.0\text{ km/s}, \beta=3.2\text{ km/s}$).
+
 ![Animation1](Plots (Mathematical Seismology)/Project1_Case1.gif)
+
 Seismic Dislocation Theory: Simulating a rectangular fault plane ($\Sigma_1$) undergoing horizontal dislocation.
 
 Depth Analysis: Animating horizontal $x_1$ displacements on observation surfaces at 10 km ($\Sigma_2$) and 15 km ($\Sigma_3$) depths.
