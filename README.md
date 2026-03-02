@@ -9,7 +9,7 @@ Wave Dynamics: Solving non-homogeneous wave equations in infinite and semi-infin
 
 Elastic Wave Propagation: Calculating displacement fields in homogeneous media based on specific density ($\rho=2.2\text{ g/cm}^3$) and P/S wave velocities ($\alpha=6.0\text{ km/s}, \beta=3.2\text{ km/s}$).
 
-![Animation1](Plots (Mathematical Seismology)/Project1_Case1.gif)
+![Animation1](Plots (Mathematical Seismology) /Project1_Case1.gif)
 
 Seismic Dislocation Theory: Simulating a rectangular fault plane ($\Sigma_1$) undergoing horizontal dislocation.
 
