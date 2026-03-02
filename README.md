@@ -43,8 +43,8 @@ Decision Boundary Visualization: Comparative analysis of how different algorithm
 
 <table style="width: 100%; border-collapse: separate; border-spacing: 15px; border: none;">
   <tr>
-    <th align="center" style="width: 33%; vertical-align: bottom; border: none;">1. Optimal Width</th>
-    <th align="center" style="width: 33%; vertical-align: bottom; border: none;">2. $k-NN$ Performance</th>
+    <th align="center" style="width: 33%; vertical-align: bottom; border: none;">1. Optimal Width through Hypercube/Gaussian Kernels</th>
+    <th align="center" style="width: 33%; vertical-align: bottom; border: none;">2. $k-NN$ different $k$ Performance</th>
     <th align="center" style="width: 33%; vertical-align: bottom; border: none;">3. Boundary Visualization</th>
   </tr>
   <tr>
