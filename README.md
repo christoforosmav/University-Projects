@@ -49,13 +49,13 @@ Decision Boundary Visualization: Comparative analysis of how different algorithm
   </tr>
   <tr>
     <td align="center" style="vertical-align: top; border: none;">
-      <img src="Plots%20%28Pattern%20Recognition%29/PatternRecognition_Project2.1.png" width="100%" style="border-radius: 4px; box-shadow: 0 2px 5px rgba(0,0,0,0.15);">
+      <img src="https://github.com/christoforosmav/University-Projects/blob/main/Plots%20(Pattern%20Recognition)/PatternRecognition_project2.1.png?raw=true" width="100%" style="border-radius: 4px;">
     </td>
     <td align="center" style="vertical-align: top; border: none;">
-      <img src="Plots%20%28Pattern%20Recognition%29/PatternRecognition_Project2.2.png" width="100%" style="border-radius: 4px; box-shadow: 0 2px 5px rgba(0,0,0,0.15);">
+      <img src="https://github.com/christoforosmav/University-Projects/blob/main/Plots%20(Pattern%20Recognition)/PatternRecognition_project2.2.png?raw=true" width="100%" style="border-radius: 4px;">
     </td>
     <td align="center" style="vertical-align: top; border: none;">
-      <img src="Plots%20%28Pattern%20Recognition%29/PatternRecognition_Project2.3.png" width="100%" style="border-radius: 4px; box-shadow: 0 2px 5px rgba(0,0,0,0.15);">
+      <img src="https://github.com/christoforosmav/University-Projects/blob/main/Plots%20(Pattern%20Recognition)/PatternRecognition_project2.3.png?raw=true" width="100%" style="border-radius: 4px;">
     </td>
   </tr>
 </table>
