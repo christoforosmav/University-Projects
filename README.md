@@ -42,20 +42,20 @@ Non-Parametric Density Estimation:
 Decision Boundary Visualization: Comparative analysis of how different algorithms (Parametric vs. Non-Parametric) partition the feature space.
 
 <table style="width: 100%; border-collapse: separate; border-spacing: 15px; border: none;">
-<tr>
-<th align="center" style="width: 33%; vertical-align: bottom; border: none;">1. Optimal width</th>
-<th align="center" style="width: 33%; vertical-align: bottom; border: none;">2. $k-NN$ performance for different $k$</th>
-<th align="center" style="width: 33%; vertical-align: bottom; border: none;">3. Boundary Visualization</th>
-</tr>
-<tr>
-<td align="center" style="vertical-align: top; border: none;">
-<img src="Plots (Pattern Recognition)/PatternRecognition_Project2.1.png" width="100%" style="border-radius: 4px; box-shadow: 0 2px 5px rgba(0,0,0,0.15);">
-</td>
-<td align="center" style="vertical-align: top; border: none;">
-<img src="Plots (Pattern Recognition)/PatternRecognition_Project2.2.png" width="100%" style="border-radius: 4px; box-shadow: 0 2px 5px rgba(0,0,0,0.15);">
-</td>
-<td align="center" style="vertical-align: top; border: none;">
-<img src="Plots (Pattern Recognition)/PatternRecognition_Project2.3.png" width="100%" style="border-radius: 4px; box-shadow: 0 2px 5px rgba(0,0,0,0.15);">
-</td>
-</tr>
+  <tr>
+    <th align="center" style="width: 33%; vertical-align: bottom; border: none;">1. Optimal Width</th>
+    <th align="center" style="width: 33%; vertical-align: bottom; border: none;">2. $k-NN$ Performance</th>
+    <th align="center" style="width: 33%; vertical-align: bottom; border: none;">3. Boundary Visualization</th>
+  </tr>
+  <tr>
+    <td align="center" style="vertical-align: top; border: none;">
+      <img src="Plots%20%28Pattern%20Recognition%29/PatternRecognition_Project2.1.png" width="100%" style="border-radius: 4px; box-shadow: 0 2px 5px rgba(0,0,0,0.15);">
+    </td>
+    <td align="center" style="vertical-align: top; border: none;">
+      <img src="Plots%20%28Pattern%20Recognition%29/PatternRecognition_Project2.2.png" width="100%" style="border-radius: 4px; box-shadow: 0 2px 5px rgba(0,0,0,0.15);">
+    </td>
+    <td align="center" style="vertical-align: top; border: none;">
+      <img src="Plots%20%28Pattern%20Recognition%29/PatternRecognition_Project2.3.png" width="100%" style="border-radius: 4px; box-shadow: 0 2px 5px rgba(0,0,0,0.15);">
+    </td>
+  </tr>
 </table>
