@@ -7,8 +7,6 @@ These projects explores the physics of wave propagation in elastic media through
 ### Key Modules🔬
 Wave Dynamics: Solving non-homogeneous wave equations in infinite and semi-infinite media using point sources and the Odd Extension method.
 
-Elastic Wave Propagation: Calculating displacement fields in homogeneous media based on specific density ($\rho=2.2\text{ g/cm}^3$) and P/S wave velocities ($\alpha=6.0\text{ km/s}, \beta=3.2\text{ km/s}$).
-
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td align="center" style="width: 50%; border: none;">
@@ -26,6 +24,7 @@ Seismic Dislocation Theory: Simulating a rectangular fault plane ($\Sigma_1$) un
 
 Depth Analysis: Animating horizontal $x_1$ displacements on observation surfaces at 10 km ($\Sigma_2$) and 15 km ($\Sigma_3$) depths.
 
+![Project2 Animation](Plots%20(Mathematical%20Seismology)/Project2.gif)
 ## Pattern Recognition
 These projects focuses on the mathematical foundations of statistical learning and automated classification. It covers both Parametric and Non-Parametric methods for estimating probability density functions and defining optimal decision boundaries.
 
