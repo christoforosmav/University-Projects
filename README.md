@@ -20,11 +20,12 @@ Wave Dynamics: Solving non-homogeneous wave equations in infinite and semi-infin
   </tr>
 </table>
 
-
 Seismic Dislocation Theory: Simulating a rectangular fault plane ($\Sigma_1$) undergoing horizontal dislocation.
 
 Depth Analysis: Animating horizontal $x_1$ displacements on observation surfaces at 10 km ($\Sigma_2$) and 15 km ($\Sigma_3$) depths.
+
 ![Project2 Animation](Plots%20(Mathematical%20Seismology)/Project2.gif)
+
 ## Pattern Recognition
 These projects focuses on the mathematical foundations of statistical learning and automated classification. It covers both Parametric and Non-Parametric methods for estimating probability density functions and defining optimal decision boundaries.
 
