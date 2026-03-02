@@ -34,7 +34,9 @@ Statistical Parameter Estimation: Implementation of Maximum Likelihood Estimatio
 Bayesian Classification: Implementing the Bayes decision rule to achieve the minimum probability of error across multi-class datasets.
 
 Non-Parametric Density Estimation:
-1.Parzen Windows: Estimating continuous density functions by interpolating data points with kernel functions (Rectangles/Gaussians).
-2.$k$-Nearest Neighbors ($k-NN$): Implementing the $k-NN$ density estimation and classification rule, where the volume of the region is adjusted based on the distance to the $k^{th}$ nearest neighbor.
+
+1. Parzen Windows: Estimating continuous density functions by interpolating data points with kernel functions (Rectangles/Gaussians).
+  
+2. $k$-Nearest Neighbors ($k-NN$): Implementing the $k-NN$ density estimation and classification rule, where the volume of the region is adjusted based on the distance to the $k^{th}$ nearest neighbor.
 
 Decision Boundary Visualization: Comparative analysis of how different algorithms (Parametric vs. Non-Parametric) partition the feature space.
